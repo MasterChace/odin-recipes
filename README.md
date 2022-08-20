@@ -1,1 +1,1 @@
-# odin-recipes
+The goal of this project is to use the skills I've learned throughout theOdinProject course and specifically, the html sections, to make a website that displays recipes. I want to demonstrate my skills in barebone HTML.
